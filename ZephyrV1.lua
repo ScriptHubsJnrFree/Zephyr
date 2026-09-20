@@ -435,7 +435,7 @@ AddScriptRow("FYY", true, "https://FyyCommunity.com")
 AddScriptRow("AJJANS", true, "https://api.luarmor.net/files/v4/loaders/36107afd3107e8d841f9d1a69e2465d4.lua")
 
 -- Scripts No Key (Keyless)
-AddScriptRow("LENNON HUB", false, "https://raw.githubusercontent.com/lennonxscripts/lennonhubv2/refs/heads/main/stealaneggv2")
+AddScriptRow("LENNON HUB", false, "https://raw.githubusercontent.com/lennonxscripts/lennonhubv3/refs/heads/main/stealanegg.lua")
 AddScriptRow("MIRANDA HUB", false, "https://raw.githubusercontent.com/miirandahub/loader/refs/heads/main/stealaeggs")
 AddScriptRow("CHILLI", false, "https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua")
 AddScriptRow("BLYXO HUB", false, "https://flowauth.net/v1/loaders/69d3463240384f3a73fbe32c178093a2.lua")
